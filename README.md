@@ -9,7 +9,7 @@
 🌱 I am currently learning HTML/JS/CSS to help my friends make amazing websites that showcase their art!
 <br>
 <br>
-👯 I love creating and being a part of spaces where data and tech overlap with non-traditional fields (i.e. data and art + data and the nonprofit sector).
+💕 I love creating and being a part of spaces where data and tech overlap with non-traditional fields (i.e. data and art + data and the nonprofit sector).
 <br>
 <br>
 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/lmrb/">LinkedIn </a>! 
