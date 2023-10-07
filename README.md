@@ -1,5 +1,6 @@
-## 👋🏼 Hi, I'm Leah Bowers (she/they)
-
+👋🏼 Hi, I'm Leah Bowers (she/they)
+<br>
+<br>
 🔷 I’m a computational chemist turned data analyst and strategy consultant based in Brooklyn, NY. My background is in renewable energy research and nonprofit strategy. I talk about my career transition in this <a href = "https://www.womeninanalytics.com/podcast-episodes/ep12"> Women in Analytics podcast episode </a>!
 <br>
 <br>
@@ -12,5 +13,5 @@
 💕 I love creating and being a part of spaces where data and tech overlap with non-traditional fields (i.e. data and art + data and the nonprofit sector).
 <br>
 <br>
-📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/lmrb/">LinkedIn </a>! 
+📫 Connect with me on <a href="https://www.linkedin.com/in/lmrb/">LinkedIn </a>! 
 
