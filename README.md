@@ -10,7 +10,7 @@
 🌱 I am currently constantly learning new things, but these days I'm tackling HTML/JS/CSS to help my friends make amazing websites that showcase their talents!
 <br>
 <br>
-💕 I love creating and being a part of spaces where data and tech overlap with non-traditional fields (i.e. data and art + data and the nonprofit sector).
+💕 I love creating and being a part of spaces where data and tech overlap with non-traditional fields (i.e. data and art, data and the nonprofit sector, and many others).
 <br>
 <br>
 📫 Connect with me on <a href="https://www.linkedin.com/in/lmrb/">LinkedIn </a> or email me at leah.bowers92@gmail.com! 
