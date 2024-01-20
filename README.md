@@ -13,5 +13,5 @@
 💕 I love creating and being a part of spaces where data and tech overlap with people (i.e. data and art, data and the nonprofit sector, and many others).
 <br>
 <br>
-📫 Visit my <a href= "https://www.leahmrbowers.com/" target="_blank">website </a>, connect with me on <a href="https://www.linkedin.com/in/lmrb/" target="_blank">LinkedIn </a> or email me at leah.bowers92@gmail.com! 
+📫 Visit my <a href= "https://www.leahmrbowers.com/" target="_blank">website</a>, connect with me on <a href="https://www.linkedin.com/in/lmrb/" target="_blank">LinkedIn</a> or email me at leah.bowers92@gmail.com! 
 
