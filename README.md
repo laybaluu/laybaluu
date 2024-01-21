@@ -7,7 +7,7 @@
 ✨ I’m interested in analytical strategy that centers research, quantitative and qualitative data, optimizes workflows, and centers users to bring about better products, programs, and user experiences. I primarily use Excel (Power Query), SQL, and Python in Jupyter Notebooks to analyze my data and Power BI to make it accessible.
 <br>
 <br>
-🌱 I am currently constantly learning new things, but these days I'm tackling HTML/JS/CSS to help my friends make amazing websites that showcase their talents!
+🌱 I am constantly learning new things, but these days I'm leveling up my SQL skills and tackling HTML/JS/CSS to help my friends make amazing websites that showcase their talents!
 <br>
 <br>
 💕 I love creating and being a part of spaces where data and tech overlap with people (i.e. data and art, data and the nonprofit sector, and many others).
