@@ -1,7 +1,7 @@
 👋🏼 Hi, I'm Leah (lay-uh, she/they)
 <br>
 <br>
-🔷 I’m a computational chemist turned data strategist based in Brooklyn, NY. My background is in business analytics and non-profit strategy - I talk about my career transition in this <a href = "https://www.womeninanalytics.com/podcast-episodes/ep12" target="_blank"> Women in Analytics podcast episode </a>!
+🔷 I’m a computational chemist turned business operations specialist based in Brooklyn, NY. My background is in business analytics and non-profit strategy - I talk about my career transition in this <a href = "https://www.womeninanalytics.com/podcast-episodes/ep12" target="_blank"> Women in Analytics podcast episode </a>!
 <br>
 <br>
 ✨ I’m interested in data strategy that focuses on research, quantitative and qualitative data, and centers users to bring about better products, programs, workflows, and user experiences. I primarily use Excel (Power Query), SQL, and Python in Jupyter Notebooks to analyze my data and Power BI to make it accessible.
